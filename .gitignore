@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/reactactivities.db
+API/reactactivities.db-shm
+API/reactactivities.db-wal
